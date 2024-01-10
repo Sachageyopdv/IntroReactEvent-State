@@ -1,0 +1,7 @@
+.counter {
+  border-style:dotted;
+  width: 50px;
+  border-radius: 90px;
+  border-width: 1px;
+  text-align: center;
+}
